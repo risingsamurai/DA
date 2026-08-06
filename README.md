@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/risingsamurai/DA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0877-stone-game](https://github.com/risingsamurai/DA/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/risingsamurai/DA/tree/master/3731-find-missing-elements) |
 ## Math
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/risingsamurai/DA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3731-find-missing-elements](https://github.com/risingsamurai/DA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
