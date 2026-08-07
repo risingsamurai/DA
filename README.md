@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/risingsamurai/DA/tree/master/0141-linked-list-cycle) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/risingsamurai/DA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3731-find-missing-elements](https://github.com/risingsamurai/DA/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/risingsamurai/DA/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/risingsamurai/DA/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -56,5 +58,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/risingsamurai/DA/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/risingsamurai/DA/tree/master/0287-find-the-duplicate-number) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/risingsamurai/DA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
