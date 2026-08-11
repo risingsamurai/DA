@@ -13,3 +13,4 @@ public:
         return num;
     }
 };
+//used basic idea of mod % to peel off digits and then add them and return if single digit with while loop 
