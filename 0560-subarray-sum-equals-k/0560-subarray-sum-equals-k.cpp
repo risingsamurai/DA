@@ -13,4 +13,4 @@ public:
       return result;  
     }
 }; 
-/* see used basic formula as sum-k , meaning subtracting the k values frm sum with hashmap , adding numbers to sum first then with result variable we insert the values we get frm declared formula and then we update the map , also we have declared mp with 0 at first in some cases to pass , if any confusion refer codewithmik yt vid */
+/* see used basic formula as sum-k , meaning subtracting the k values frm sum with hashmap , adding numbers to sum first then with result variable we insert the values we get frm declared formula which we are doing for eg if we hve sum of 8 and with we k as 3 and we do 8-3=5 and if we hve got 5 before then we can conclude we hve one subarray as we added 3 to 5 for 8 and then we update the map , also we have declared mp with 0 at first in some cases to pass , if any confusion refer codewithmik yt vid */
