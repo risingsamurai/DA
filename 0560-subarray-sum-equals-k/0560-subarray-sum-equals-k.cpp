@@ -12,4 +12,5 @@ public:
         }
       return result;  
     }
-};
+}; 
+/* see used basic formula as sum-k , meaning subtracting the k values frm sum with hashmap , adding numbers to sum first then with result variable we insert the values we get frm declared formula and then we update the map , also we have declared mp with 0 at first in some cases to pass , if any confusion refer codewithmik yt vid */
