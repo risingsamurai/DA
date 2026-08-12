@@ -19,3 +19,4 @@ public:
          return false;
     }
 };
+/* cwm    using maths firstly we get raminder by sum %k ten we check if remainder if thr in condition and use logic of index-remainder >=2 it is multiple of k so its fine taking remainder and else if we alraedy hve */
