@@ -32,3 +32,6 @@
 	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>nums[i]</code> is either <code>0</code> or <code>1</code>.</li>
 </ul>
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8de63a6-9049-4dcd-b2ab-7e5ea8dbf674" />
+
