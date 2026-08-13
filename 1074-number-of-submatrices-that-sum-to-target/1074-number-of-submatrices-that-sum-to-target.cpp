@@ -19,7 +19,7 @@ public:
        for(int startcol=0;startcol<cols;startcol++){
         
             for(int j=startcol;j<cols;j++){
-                 map<int,int>mp;
+                 unordered_map<int,int>mp;
 
                 int sum=0 ;
         //using lc 560 and akdane algo logic same 
@@ -40,3 +40,4 @@ public:
        } return result;
     }
 };
+
