@@ -18,3 +18,4 @@
 	<li><code>-1000 &lt;= nums[i] &lt;= 1000</code></li>
 	<li><code>-10<sup>7</sup> &lt;= k &lt;= 10<sup>7</sup></code></li>
 </ul>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4bf07eb9-b740-4aa5-8496-32bedf76997f" />
