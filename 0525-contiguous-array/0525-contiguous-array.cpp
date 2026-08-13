@@ -3,8 +3,9 @@ public:
     int findMaxLength(vector<int>& nums) {
         int Maxresult=0;
         int cumSum=0;
-        map<int,int>mp;
-        mp[0] = -1;
+        
+       unordered_map<int,int>mp;
+       mp[0]=-1;
         for(int i=0;i<nums.size();i++){
 
             if(nums[i]==0)
