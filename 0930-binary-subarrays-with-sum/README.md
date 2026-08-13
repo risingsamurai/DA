@@ -25,6 +25,10 @@
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac49c83a-f027-431f-b032-eaa4c507e356" />
+
+
 <ul>
 	<li><code>1 &lt;= nums.length &lt;= 3 * 10<sup>4</sup></code></li>
 	<li><code>nums[i]</code> is either <code>0</code> or <code>1</code>.</li>
