@@ -1,4 +1,4 @@
-/*EVERY PATTERN FOLLOWED ACROSS PREVIOUS PREFIX SUMS 560 , SUM OF TARGET */
+/*EVERY PATTERN FOLLOWED ACROSS PREVIOUS PREFIX SUMS 560 , SUM OF TARGET exact copy of 560 subarray k */
 class Solution {
 public:
     int numSubarraysWithSum(vector<int>& nums, int goal) {
