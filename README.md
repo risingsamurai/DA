@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/risingsamurai/DA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/risingsamurai/DA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/risingsamurai/DA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/risingsamurai/DA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3731-find-missing-elements](https://github.com/risingsamurai/DA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -25,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/risingsamurai/DA/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/risingsamurai/DA/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/risingsamurai/DA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/risingsamurai/DA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/risingsamurai/DA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/risingsamurai/DA/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/risingsamurai/DA/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/risingsamurai/DA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Minimax
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/risingsamurai/DA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/risingsamurai/DA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/risingsamurai/DA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/risingsamurai/DA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Matrix
 |  |
 | ------- |
