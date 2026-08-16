@@ -26,3 +26,6 @@
 	<li><code>-10<sup>4</sup> &lt;= nums[i] &lt;= 10<sup>4</sup></code></li>
 	<li><code>0 &lt;= target &lt;= 10<sup>6</sup></code></li>
 </ul>
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b3567549-849a-47a4-9ae0-8c221d1b7303" />
