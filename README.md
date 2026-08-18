@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/risingsamurai/DA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/risingsamurai/DA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/risingsamurai/DA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/risingsamurai/DA/tree/master/3360-stone-removal-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/risingsamurai/DA/tree/master/0258-add-digits) |
+| [3360-stone-removal-game](https://github.com/risingsamurai/DA/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
