@@ -1,3 +1,5 @@
+/*we take two parts prefix and suffix which compares frm first nd last nd find largest subarrays and if 0 comes we put 1 nd reset the subarray and return it , 
+eg:[1,5,6,7,0,8,7,3] frm first prefix works and then frm last suffix works nd finds largest subarray , also declare INT_MIN to keep max for prod */
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
@@ -17,3 +19,13 @@ public:
      return maxProd;   
     }
 };
+
+
+
+
+
+
+
+
+
+// if any conf check striver
