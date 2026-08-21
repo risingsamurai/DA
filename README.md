@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/risingsamurai/DA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/risingsamurai/DA/tree/master/0056-merge-intervals) |
 | [0137-single-number-ii](https://github.com/risingsamurai/DA/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/risingsamurai/DA/tree/master/0152-maximum-product-subarray) |
 | [0260-single-number-iii](https://github.com/risingsamurai/DA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/risingsamurai/DA/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/risingsamurai/DA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/risingsamurai/DA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/risingsamurai/DA/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/risingsamurai/DA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/risingsamurai/DA/tree/master/1140-stone-game-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/risingsamurai/DA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
