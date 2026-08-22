@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/risingsamurai/DA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/risingsamurai/DA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/risingsamurai/DA/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/risingsamurai/DA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/risingsamurai/DA/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/risingsamurai/DA/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/risingsamurai/DA/tree/master/0930-binary-subarrays-with-sum) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/risingsamurai/DA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/risingsamurai/DA/tree/master/0258-add-digits) |
 | [0523-continuous-subarray-sum](https://github.com/risingsamurai/DA/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/risingsamurai/DA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/risingsamurai/DA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/risingsamurai/DA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/risingsamurai/DA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/risingsamurai/DA/tree/master/0056-merge-intervals) |
+| [0628-maximum-product-of-three-numbers](https://github.com/risingsamurai/DA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3731-find-missing-elements](https://github.com/risingsamurai/DA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
