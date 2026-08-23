@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/risingsamurai/DA/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/risingsamurai/DA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/risingsamurai/DA/tree/master/3360-stone-removal-game) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/risingsamurai/DA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/risingsamurai/DA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Dynamic Programming
 |  |
