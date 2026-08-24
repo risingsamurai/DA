@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/risingsamurai/DA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/risingsamurai/DA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/risingsamurai/DA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/risingsamurai/DA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3731-find-missing-elements](https://github.com/risingsamurai/DA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -180,4 +181,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/risingsamurai/DA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/risingsamurai/DA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+## String
+|  |
+| ------- |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/risingsamurai/DA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 <!---LeetCode Topics End-->
