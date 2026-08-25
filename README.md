@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/risingsamurai/DA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/risingsamurai/DA/tree/master/0056-merge-intervals) |
+| [0136-single-number](https://github.com/risingsamurai/DA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/risingsamurai/DA/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/risingsamurai/DA/tree/master/0152-maximum-product-subarray) |
 | [0260-single-number-iii](https://github.com/risingsamurai/DA/tree/master/0260-single-number-iii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/risingsamurai/DA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/risingsamurai/DA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/risingsamurai/DA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/risingsamurai/DA/tree/master/0287-find-the-duplicate-number) |
