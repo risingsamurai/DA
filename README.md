@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/risingsamurai/DA/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/risingsamurai/DA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/risingsamurai/DA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/risingsamurai/DA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/risingsamurai/DA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/risingsamurai/DA/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/risingsamurai/DA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/risingsamurai/DA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/risingsamurai/DA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/risingsamurai/DA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/risingsamurai/DA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/risingsamurai/DA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/risingsamurai/DA/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/risingsamurai/DA/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/risingsamurai/DA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/risingsamurai/DA/tree/master/1248-count-number-of-nice-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/risingsamurai/DA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Greedy
 |  |
 | ------- |
