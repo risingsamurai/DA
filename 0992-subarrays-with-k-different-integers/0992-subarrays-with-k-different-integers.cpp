@@ -1,4 +1,4 @@
-/* basic idea is using basic khandani sliding window concept but first in this we find all the arrays less than or equal to k and then shrink if it fails , then with these k values , we do k and k-1 which gives us all good arrays we require(k) and removes remaining values ,eg; k=2 means we need 2 different integers so with our appraoch it gives us full values below or equal to k then we subtract remaining with k and get answer , if any doubt refer this : https://www.youtube.com/watch?v=uJJSGxfzix8 */
+/* basic idea is using basic khandani sliding window concept but first in this we find all the arrays less than or equal to k and then shrink if it fails , then with these k values , we do k and k-1 which gives us all good arrays we require(k) and removes remaining values ,eg; k=2 means we need 2 different integers so with our appraoch it gives us full values below or equal to k then we subtract remaining with k and get answer , if any doubt refer cwm */
 
 class Solution {
 public:
