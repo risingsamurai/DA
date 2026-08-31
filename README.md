@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/risingsamurai/DA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/risingsamurai/DA/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/risingsamurai/DA/tree/master/0152-maximum-product-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/risingsamurai/DA/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/risingsamurai/DA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/risingsamurai/DA/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/risingsamurai/DA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/risingsamurai/DA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/risingsamurai/DA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/risingsamurai/DA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/risingsamurai/DA/tree/master/0713-subarray-product-less-than-k) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/risingsamurai/DA/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/risingsamurai/DA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/risingsamurai/DA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/risingsamurai/DA/tree/master/0560-subarray-sum-equals-k) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/risingsamurai/DA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/risingsamurai/DA/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/risingsamurai/DA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/risingsamurai/DA/tree/master/0992-subarrays-with-k-different-integers) |
