@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/risingsamurai/DA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/risingsamurai/DA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/risingsamurai/DA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/risingsamurai/DA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/risingsamurai/DA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/risingsamurai/DA/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/risingsamurai/DA/tree/master/0877-stone-game) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/risingsamurai/DA/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/risingsamurai/DA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/risingsamurai/DA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/risingsamurai/DA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/risingsamurai/DA/tree/master/0930-binary-subarrays-with-sum) |
