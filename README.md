@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/risingsamurai/DA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/risingsamurai/DA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/risingsamurai/DA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1695-maximum-erasure-value](https://github.com/risingsamurai/DA/tree/master/1695-maximum-erasure-value) |
 | [1816-truncate-sentence](https://github.com/risingsamurai/DA/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/risingsamurai/DA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/risingsamurai/DA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/risingsamurai/DA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/risingsamurai/DA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/risingsamurai/DA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1695-maximum-erasure-value](https://github.com/risingsamurai/DA/tree/master/1695-maximum-erasure-value) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/risingsamurai/DA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/risingsamurai/DA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/risingsamurai/DA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/risingsamurai/DA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/risingsamurai/DA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/risingsamurai/DA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1695-maximum-erasure-value](https://github.com/risingsamurai/DA/tree/master/1695-maximum-erasure-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/risingsamurai/DA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/risingsamurai/DA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/risingsamurai/DA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
