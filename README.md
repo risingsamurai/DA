@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/risingsamurai/DA/tree/master/1816-truncate-sentence) |
 | [1991-find-the-middle-index-in-array](https://github.com/risingsamurai/DA/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/risingsamurai/DA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2090-k-radius-subarray-averages](https://github.com/risingsamurai/DA/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/risingsamurai/DA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/risingsamurai/DA/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/risingsamurai/DA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/risingsamurai/DA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/risingsamurai/DA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/risingsamurai/DA/tree/master/1695-maximum-erasure-value) |
+| [2090-k-radius-subarray-averages](https://github.com/risingsamurai/DA/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/risingsamurai/DA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/risingsamurai/DA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/risingsamurai/DA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
