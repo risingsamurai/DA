@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/risingsamurai/DA/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/risingsamurai/DA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/risingsamurai/DA/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/risingsamurai/DA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/risingsamurai/DA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/risingsamurai/DA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/risingsamurai/DA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/risingsamurai/DA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/risingsamurai/DA/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/risingsamurai/DA/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/risingsamurai/DA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1140-stone-game-ii](https://github.com/risingsamurai/DA/tree/master/1140-stone-game-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/risingsamurai/DA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/risingsamurai/DA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/risingsamurai/DA/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/risingsamurai/DA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Database
 |  |
 | ------- |
@@ -252,4 +255,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/risingsamurai/DA/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/risingsamurai/DA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/risingsamurai/DA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/risingsamurai/DA/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/risingsamurai/DA/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
