@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/risingsamurai/DA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1652-defuse-the-bomb](https://github.com/risingsamurai/DA/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/risingsamurai/DA/tree/master/1695-maximum-erasure-value) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/risingsamurai/DA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1816-truncate-sentence](https://github.com/risingsamurai/DA/tree/master/1816-truncate-sentence) |
 | [1991-find-the-middle-index-in-array](https://github.com/risingsamurai/DA/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/risingsamurai/DA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/risingsamurai/DA/tree/master/1140-stone-game-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/risingsamurai/DA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/risingsamurai/DA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/risingsamurai/DA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Minimax
 |  |
 | ------- |
