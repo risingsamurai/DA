@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/risingsamurai/DA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/risingsamurai/DA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/risingsamurai/DA/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/risingsamurai/DA/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/risingsamurai/DA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/risingsamurai/DA/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/risingsamurai/DA/tree/master/0152-maximum-product-subarray) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/risingsamurai/DA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/risingsamurai/DA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/risingsamurai/DA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/risingsamurai/DA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/risingsamurai/DA/tree/master/0287-find-the-duplicate-number) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/risingsamurai/DA/tree/master/0074-search-a-2d-matrix) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/risingsamurai/DA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Sliding Window
 |  |
