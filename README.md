@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/risingsamurai/DA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/risingsamurai/DA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/risingsamurai/DA/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/risingsamurai/DA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/risingsamurai/DA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/risingsamurai/DA/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/risingsamurai/DA/tree/master/0875-koko-eating-bananas) |
@@ -287,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/risingsamurai/DA/tree/master/3483-unique-3-digit-even-numbers) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/risingsamurai/DA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
