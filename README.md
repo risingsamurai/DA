@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/risingsamurai/DA/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/risingsamurai/DA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2090-k-radius-subarray-averages](https://github.com/risingsamurai/DA/tree/master/2090-k-radius-subarray-averages) |
+| [2187-minimum-time-to-complete-trips](https://github.com/risingsamurai/DA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/risingsamurai/DA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/risingsamurai/DA/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/risingsamurai/DA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/risingsamurai/DA/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/risingsamurai/DA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1539-kth-missing-positive-number](https://github.com/risingsamurai/DA/tree/master/1539-kth-missing-positive-number) |
+| [2187-minimum-time-to-complete-trips](https://github.com/risingsamurai/DA/tree/master/2187-minimum-time-to-complete-trips) |
 ## Bit Manipulation
 |  |
 | ------- |
