@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/risingsamurai/DA/tree/master/2090-k-radius-subarray-averages) |
 | [2187-minimum-time-to-complete-trips](https://github.com/risingsamurai/DA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/risingsamurai/DA/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2439-minimize-maximum-of-array](https://github.com/risingsamurai/DA/tree/master/2439-minimize-maximum-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/risingsamurai/DA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/risingsamurai/DA/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/risingsamurai/DA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/risingsamurai/DA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/risingsamurai/DA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/risingsamurai/DA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2439-minimize-maximum-of-array](https://github.com/risingsamurai/DA/tree/master/2439-minimize-maximum-of-array) |
 ## Minimax
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/risingsamurai/DA/tree/master/1539-kth-missing-positive-number) |
 | [2187-minimum-time-to-complete-trips](https://github.com/risingsamurai/DA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/risingsamurai/DA/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2439-minimize-maximum-of-array](https://github.com/risingsamurai/DA/tree/master/2439-minimize-maximum-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/risingsamurai/DA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/risingsamurai/DA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1991-find-the-middle-index-in-array](https://github.com/risingsamurai/DA/tree/master/1991-find-the-middle-index-in-array) |
+| [2439-minimize-maximum-of-array](https://github.com/risingsamurai/DA/tree/master/2439-minimize-maximum-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/risingsamurai/DA/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
 |  |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/risingsamurai/DA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [2439-minimize-maximum-of-array](https://github.com/risingsamurai/DA/tree/master/2439-minimize-maximum-of-array) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/risingsamurai/DA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Counting
 |  |
