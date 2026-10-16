@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/risingsamurai/DA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/risingsamurai/DA/tree/master/1486-xor-operation-in-an-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/risingsamurai/DA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/risingsamurai/DA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2235-add-two-integers](https://github.com/risingsamurai/DA/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/risingsamurai/DA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/risingsamurai/DA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/risingsamurai/DA/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/risingsamurai/DA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1539-kth-missing-positive-number](https://github.com/risingsamurai/DA/tree/master/1539-kth-missing-positive-number) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/risingsamurai/DA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/risingsamurai/DA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/risingsamurai/DA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2439-minimize-maximum-of-array](https://github.com/risingsamurai/DA/tree/master/2439-minimize-maximum-of-array) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/risingsamurai/DA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/risingsamurai/DA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2439-minimize-maximum-of-array](https://github.com/risingsamurai/DA/tree/master/2439-minimize-maximum-of-array) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/risingsamurai/DA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Counting
