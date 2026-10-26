@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/risingsamurai/DA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/risingsamurai/DA/tree/master/0258-add-digits) |
+| [0441-arranging-coins](https://github.com/risingsamurai/DA/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/risingsamurai/DA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/risingsamurai/DA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/risingsamurai/DA/tree/master/0728-self-dividing-numbers) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/risingsamurai/DA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/risingsamurai/DA/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/risingsamurai/DA/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/risingsamurai/DA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/risingsamurai/DA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/risingsamurai/DA/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/risingsamurai/DA/tree/master/0875-koko-eating-bananas) |
