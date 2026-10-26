@@ -1,0 +1,23 @@
+class Solution {
+public:
+    int arrangeCoins(int n) {
+        int l=1;
+        int r=n;
+        int res=0;
+
+        while(l<=r){
+        int mid=l+(r-l)/2;
+        long long coins = (long long)mid * (mid + 1) / 2;  /*gauss formula adjusted */
+         
+         if(coins>n){
+            r=mid-1;
+         }
+         else{
+            l=mid+1;
+            res=max(mid,res);
+         }
+        }
+        
+        return res;
+    }
+};
