@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/risingsamurai/DA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/risingsamurai/DA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/risingsamurai/DA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/risingsamurai/DA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/risingsamurai/DA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/risingsamurai/DA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/risingsamurai/DA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/risingsamurai/DA/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/risingsamurai/DA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/risingsamurai/DA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/risingsamurai/DA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3731-find-missing-elements](https://github.com/risingsamurai/DA/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/risingsamurai/DA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/risingsamurai/DA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/risingsamurai/DA/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/risingsamurai/DA/tree/master/0633-sum-of-square-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/risingsamurai/DA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/risingsamurai/DA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/risingsamurai/DA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/risingsamurai/DA/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/risingsamurai/DA/tree/master/1208-get-equal-substrings-within-budget) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/risingsamurai/DA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/risingsamurai/DA/tree/master/1539-kth-missing-positive-number) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/risingsamurai/DA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/risingsamurai/DA/tree/master/2187-minimum-time-to-complete-trips) |
